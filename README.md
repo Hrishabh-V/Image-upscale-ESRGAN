@@ -2,6 +2,9 @@
 
 This project is a web application for upscaling images using the ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks) model. ESRGAN is a powerful model for image super-resolution, enabling high-quality upscaling of images.
 
+![ESRGAN Example](ESRGAN%20image%20upscaling/Diff.png)
+
+
 ## Features
 - High-quality image upscaling using ESRGAN.
 - Supports both GPU (for faster processing) and CPU (if GPU is not available).
