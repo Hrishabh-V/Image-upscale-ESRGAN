@@ -2,6 +2,11 @@
 
 This project is a web application for upscaling images using the ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks) model. ESRGAN is a powerful model for image super-resolution, enabling high-quality upscaling of images.
 
+<p align="left">
+   <a href="https://huggingface.co/spaces/CHEONMA010/ESRGAN">
+      <img alt="LIVE" title=" View the page live on hugging face" src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white"/></a>  
+</p>
+      
 ![ESRGAN Example](Diff.png)
 
 
