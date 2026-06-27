@@ -30,7 +30,7 @@ To run this project, you will need to install the following dependencies:
 2. **Install PyTorch**: You can install PyTorch with CUDA support by following the instructions on the [PyTorch website](https://pytorch.org/get-started/locally/).
 
 3. **Install Python packages**:
-   ```sh
+   sh
    pip install glob2 opencv-python
 
 ## Note
